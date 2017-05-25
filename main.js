@@ -1,4 +1,4 @@
-//global variables go here:
+//global variables 
 
 var clickedArray = [];
 var interval;
@@ -6,12 +6,12 @@ var started = false;
 var time = 0;
 var ready = true;
 var numCompleted = 0;
-//execute functions here:
+//execute functions 
 setUp();
 
 
 
-//function definitions go here:
+//function definitions 
 
 function randomAnswers(){
     var answers = [1,1,2,2,3,3,4,4,5];
